@@ -6,7 +6,7 @@ info:
   license:
     name: GNU
 paths:
-  /pet:
+  /api/pets/pet:
     patch:
       description: update a pet
       operationId: update-pet
